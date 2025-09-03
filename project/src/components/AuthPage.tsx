@@ -93,7 +93,7 @@ export default function AuthPage() {
   return (
     <div className={`min-h-screen bg-gradient-to-br ${colors.background} flex items-center justify-center p-4`}>
       <div className="w-full max-w-md">
-        {/* Logo and Title */}
+        {/* FIXXED Logo and Title */}
         <div className="text-center mb-8">
           <div className="inline-flex items-center justify-center w-16 h-16 bg-gradient-to-r from-pink-500 to-violet-500 rounded-full mb-4">
             <Sparkles className="w-8 h-8 text-white" />
